@@ -1,0 +1,765 @@
+# Translation of Themes - Glob in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Glob package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-09-21 07:49:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Glob\n"
+
+#. Theme Name of the plugin/theme
+msgid "Glob"
+msgstr "Glob."
+
+#: inc/dashboard.php:128
+msgid "FameThemes Demo Importer"
+msgstr "FameThemes Demo Importer"
+
+#: inc/dashboard.php:127
+msgid "Hey."
+msgstr "¡Ey!"
+
+#: inc/dashboard.php:125
+msgid "%1$s you will need to install and activate the %2$s plugin first."
+msgstr "%1$s necesitas instalar y activar el plugin de %2$s primero."
+
+#: inc/dashboard.php:112
+msgid "Active Now"
+msgstr "Activar ahora"
+
+#: inc/dashboard.php:91
+msgid "Install Now"
+msgstr "Instalar ahora"
+
+#: inc/dashboard.php:44
+msgid "One Click Demo Import"
+msgstr "Importar el contenido de la demo con solo un clic"
+
+#. Template Name of the plugin/theme
+msgid "Home Widget Builder"
+msgstr "Constructor de widget de página de inicio"
+
+#. Template Name of the plugin/theme
+msgid "Full Width Page"
+msgstr "Página de ancho completo"
+
+#. translators: %s: Name of current post.
+#: template-parts/content-single.php:51 template-parts/content.php:29
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Seguir leyendo %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-page.php:18 template-parts/content-single.php:55
+#: template-parts/content.php:33
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/content-none.php:23
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no se puede encontrar lo que buscas. Tal vez otra búsqueda podría ayudar."
+
+#: template-parts/content-none.php:19
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero nada coincide con los términos de búsqueda. Inténtalo de nuevo con palabras clave diferentes."
+
+#: template-parts/content-none.php:17
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Preparado para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: template-parts/content-none.php:12
+msgid "Nothing Found"
+msgstr "No se encontró nada"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda de: %s"
+
+#: inc/widgets/widget-social.php:70
+msgid "This widget use Social Menu to display social icons."
+msgstr "Este widget usa el Menú social para mostrar los iconos sociales."
+
+#: inc/widgets/widget-social.php:61
+msgid "Stay Connected"
+msgstr "Sigue conectado"
+
+#: inc/widgets/widget-social.php:9
+msgid "FT Socials"
+msgstr "FT Socials"
+
+#: inc/widgets/widget-social.php:8
+msgid "Display social network icon on any sidebar."
+msgstr "Muestras los iconos de las redes sociales en cualquier barra lateral."
+
+#: inc/widgets/widget-recent-posts.php:100
+msgid "ASC"
+msgstr "ASC"
+
+#: inc/widgets/widget-recent-posts.php:99
+msgid "DESC"
+msgstr "DESC"
+
+#: inc/widgets/widget-recent-posts.php:97
+msgid "Order"
+msgstr "Orden"
+
+#: inc/widgets/widget-recent-posts.php:94
+msgid "Random"
+msgstr "Aleatorio"
+
+#: inc/widgets/widget-recent-posts.php:93
+msgid "Comment count"
+msgstr "Contador de comentarios"
+
+#: inc/widgets/widget-recent-posts.php:91
+msgid "Date"
+msgstr "Fecha"
+
+#: inc/widgets/widget-recent-posts.php:89
+msgid "Order by"
+msgstr "Ordenar por"
+
+#: inc/widgets/widget-recent-posts.php:84
+msgid "Number of photos"
+msgstr "Número de fotos"
+
+#: inc/widgets/widget-recent-posts.php:79
+#: inc/widgets/widget-recent-posts.php:92
+msgid "Title"
+msgstr "Titulo"
+
+#: inc/widgets/widget-recent-posts.php:25
+#: inc/widgets/widget-recent-posts.php:68
+msgid "Recent Posts"
+msgstr "Entradas recientes"
+
+#: inc/widgets/widget-recent-posts.php:14
+msgid "Displays list of posts with small thumbnail."
+msgstr "Muestra una lista de entradas con su miniatura."
+
+#: inc/widgets/widget-recent-posts.php:11
+msgid "FT Sidebar Posts with Thumbnail"
+msgstr "FT Barra Lateral de entradas con miniatura"
+
+#: inc/widgets/widget-hero-1.php:9
+msgid "FT Hero 1"
+msgstr "FT Hero 1"
+
+#: inc/widgets/widget-block-3.php:9
+msgid "FT Block 3"
+msgstr "FT Bloque 3"
+
+#: inc/widgets/widget-block-2.php:154
+msgid "Column Layout:"
+msgstr "Diseño de columna:"
+
+#: inc/widgets/widget-block-2.php:10
+msgid "FT Block 2"
+msgstr "FT Bloque 2"
+
+#: inc/widgets/widget-block-1.php:209 inc/widgets/widget-block-2.php:178
+#: inc/widgets/widget-block-3.php:182 inc/widgets/widget-hero-1.php:170
+msgid "Order By:"
+msgstr "Ordenar por:"
+
+#: inc/widgets/widget-block-1.php:201 inc/widgets/widget-block-2.php:170
+#: inc/widgets/widget-block-3.php:174 inc/widgets/widget-hero-1.php:162
+msgid "Order:"
+msgstr "Pedido:"
+
+#: inc/widgets/widget-block-1.php:198 inc/widgets/widget-block-2.php:167
+#: inc/widgets/widget-block-3.php:171 inc/widgets/widget-hero-1.php:159
+msgid "Ignore Sticky Posts"
+msgstr "Ignorar entradas fijas"
+
+#: inc/widgets/widget-block-1.php:193 inc/widgets/widget-block-2.php:162
+#: inc/widgets/widget-block-3.php:166
+msgid "Number of posts to show:"
+msgstr "Número de entradas a mostrar:"
+
+#: inc/widgets/widget-block-1.php:186 inc/widgets/widget-block-2.php:147
+#: inc/widgets/widget-block-3.php:159 inc/widgets/widget-hero-1.php:151
+msgid "All"
+msgstr "Todos"
+
+#: inc/widgets/widget-block-1.php:184 inc/widgets/widget-block-2.php:145
+#: inc/widgets/widget-block-3.php:157 inc/widgets/widget-hero-1.php:149
+msgid "Block Category:"
+msgstr "Categoría de bloque:"
+
+#: inc/widgets/widget-block-1.php:180 inc/widgets/widget-block-2.php:141
+#: inc/widgets/widget-block-3.php:153 inc/widgets/widget-hero-1.php:145
+#: inc/widgets/widget-social.php:66
+msgid "Widget Title:"
+msgstr "Título del widget:"
+
+#: inc/widgets/widget-block-1.php:12
+msgid "FT Block 1"
+msgstr "FT bloque 1"
+
+#: inc/template-tags.php:244
+msgid "%1$s theme by %2$s"
+msgstr "Tema %1$s por %2$s"
+
+#: inc/template-tags.php:242
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:242
+msgid "Copyright %1$s %2$s %3$s"
+msgstr "Copyright %1$s %2$s %3$s"
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:222
+msgid "%1$s at %2$s"
+msgstr "%1$s en %2$s"
+
+#: inc/template-tags.php:216
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está a la espera de moderación."
+
+#: inc/template-tags.php:203
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/template-tags.php:203
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:143 template-parts/content-page.php:28
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:137
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Dejar un comentario<span class=\"screen-reader-text\"> en %s</span>"
+
+#: inc/template-tags.php:131
+msgid "Tagged"
+msgstr "Etiquetado"
+
+#: inc/template-tags.php:126
+msgid "Posted in"
+msgstr "Publicado en"
+
+#: inc/template-tags.php:89
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: inc/template-tags.php:89
+msgid "1 Comment"
+msgstr "1 Comentario"
+
+#: inc/template-tags.php:89
+msgid "0 Comments"
+msgstr "0 comentarios"
+
+#: inc/extras.php:112
+msgid "Search"
+msgstr "Buscar"
+
+#: inc/extras.php:111
+msgid "Search for:"
+msgstr "Buscar por:"
+
+#: inc/extras.php:40
+msgid "This widget area is currently disabled. You can enable it Customizer &rarr; Theme Options &rarr; Footer section."
+msgstr "Este área de widget está actualmente deshactivada. Puede activarla en el  Personalizador &rarr; Opciones del tema &rarr; Pie de página."
+
+#: inc/dashboard.php:75
+msgid "Theme Screenshot"
+msgstr "Imagen del tema"
+
+#: inc/dashboard.php:70
+msgid "Create a support ticket"
+msgstr "Abrir un tiket de soporte"
+
+#: inc/dashboard.php:68
+msgid "Support for %s WordPress theme is conducted through FameThemes support ticket system."
+msgstr "El soporte para el tema de WordPress %s se realiza mediante sistema de tickets de soporte FameThemes."
+
+#: inc/dashboard.php:67
+msgid "Having Trouble, Need Support?"
+msgstr "¿Algún problema? ¿Necesitas ayuda?"
+
+#: inc/dashboard.php:62
+msgid "Glob Documentation"
+msgstr "Documentación de Glob"
+
+#: inc/dashboard.php:60
+msgid "Need any help to setup and configure %s? Please have a look at our documentations instructions."
+msgstr "¿Necesitas ayuda para instalar y configurar %s? Por favor, echa un vistazo a las instrucciones en la documentación."
+
+#: inc/dashboard.php:59
+msgid "Theme Documentation"
+msgstr "Documentación del tema"
+
+#: inc/dashboard.php:55
+msgid "Start Customize"
+msgstr "Empezar a personalizar"
+
+#: inc/dashboard.php:53
+msgid "%s supports the Theme Customizer for all theme settings. Click \"Customize\" to start customize your site."
+msgstr "%s es compatible con el Personalizador de temas para todos sus ajustes. Haz clic en Personalizar y personaliza tu sitio."
+
+#: inc/dashboard.php:52
+msgid "Theme Customizer"
+msgstr "Personalizador del tema"
+
+#. #-#-#-#-#  glob.pot (Glob 0.1.1)  #-#-#-#-#
+#. Author of the plugin/theme
+#: inc/dashboard.php:41
+msgid "FameThemes"
+msgstr "FameThemes"
+
+#: inc/dashboard.php:39
+msgid "Welcome to Glob - Version %1s"
+msgstr "Bienvenido a Glob - Version% 1s"
+
+#: inc/dashboard.php:25
+msgid "Glob Dashboard"
+msgstr "Escritorio de Glob"
+
+#: inc/dashboard.php:24
+msgid "Glob Theme"
+msgstr "Tema Glob"
+
+#: inc/customizer.php:486
+msgid "Setup colors"
+msgstr "Configuración de colores"
+
+#: inc/customizer.php:485
+msgid "Setup color for: "
+msgstr "Configurar color para:"
+
+#: inc/customizer.php:461
+msgid "Upgrade to Glob Pro"
+msgstr "Actualizar a Glob Pro"
+
+#: inc/customizer.php:457
+msgid "Premium email support."
+msgstr "Soporte premium por correo electrónico."
+
+#: inc/customizer.php:426
+msgid "Secondary Color"
+msgstr "Color Secundario"
+
+#: inc/customizer.php:416
+msgid "Primary Color"
+msgstr "Color principal"
+
+#: inc/customizer.php:405
+msgid "Default"
+msgstr "Por defecto"
+
+#: inc/customizer.php:400
+msgid "Posts page layout"
+msgstr "Diseño de la página de entradas"
+
+#: comments.php:49 comments.php:67
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: inc/customizer.php:81
+msgid "Right"
+msgstr "Derecha"
+
+#: inc/customizer.php:80
+msgid "Center"
+msgstr "Centro"
+
+#: inc/customizer.php:79
+msgid "Left"
+msgstr "Izquierda"
+
+#: inc/customizer.php:64
+msgid "Header"
+msgstr "Cabecera"
+
+#: inc/customizer.php:55
+msgid "Theme Options"
+msgstr "Opciones de tema"
+
+#: inc/customizer.php:43
+msgid "Hide site tagline"
+msgstr "Ocultar la descripción corta del sitio"
+
+#: inc/customizer.php:28
+msgid "Hide site title"
+msgstr "Ocultar el título del sitio"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Ir al contenido"
+
+#. Translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+#: functions.php:222
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#: functions.php:215
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Noto Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:212
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:189
+msgid "Footer 4"
+msgstr "Pie de página 4"
+
+#: functions.php:180
+msgid "Footer 3"
+msgstr "Pie de página 3"
+
+#: functions.php:171
+msgid "Footer 2"
+msgstr "Pie de página 2"
+
+#: functions.php:162
+msgid "Footer 1"
+msgstr "Pie de página 1"
+
+#: functions.php:152
+msgid "Home Content Bottom"
+msgstr "Contenido inferior de la página de inicio"
+
+#: functions.php:143
+msgid "Home Content Right"
+msgstr "Contenido de la derecha de la página de inicio"
+
+#: functions.php:134
+msgid "Home Contet Left"
+msgstr "Contenido de la izquierda de la página de inicio"
+
+#: functions.php:125
+msgid "Home Content Top"
+msgstr "Contenido superior de la página de inicio"
+
+#: functions.php:116
+msgid "Home Hero Top"
+msgstr "Hero superior de la página de inicio"
+
+#: functions.php:109
+msgid "Header Right"
+msgstr "Cabecera derecha"
+
+#: functions.php:102 functions.php:111 functions.php:118 functions.php:127
+#: functions.php:136 functions.php:145 functions.php:154
+msgid "Add widgets here."
+msgstr "Añade tus widgets aquí."
+
+#: functions.php:100
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:57
+msgid "Social Network"
+msgstr "Redes sociales"
+
+#: functions.php:56
+msgid "Footer"
+msgstr "Pie de página"
+
+#: functions.php:55
+msgid "Primary"
+msgstr "Principal"
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:52 comments.php:70
+msgid "Newer Comments"
+msgstr "Comentarios más recientes"
+
+#: comments.php:51 comments.php:69
+msgid "Older Comments"
+msgstr "Comentarios más antiguos"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:34
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s pensamiento en &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pensamientos en &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Un pensamiento en &ldquo;%s&rdquo;"
+
+#: archive.php:43 home.php:50 index.php:47 search.php:38
+msgid "Page"
+msgstr "Página"
+
+#. translators: %1$s: smiley
+#: 404.php:42
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Intenta buscar en los archivos mensuales. %1$s"
+
+#: 404.php:26
+msgid "Most Used Categories"
+msgstr "Categorías más usadas"
+
+#: 404.php:18
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que no se encontró nada aquí. ¿Qué tal si pruebas con uno de los links de abajo o haciendo una búsqueda?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Oops! Esa página no pudo ser encontrada."
+
+#: inc/widgets/widget-hero-1.php:8
+msgid "Hero block which show post in a large grid, best for Hero Top/Bottom sidebar."
+msgstr "Bloque de tipo hero que muestra las entradas en una gran cuadrícula, idóneo para el hero de la parte superior/inferior de la barra lateral."
+
+#: inc/widgets/widget-block-3.php:8
+msgid "Block posts widget, best for Home Content Left & Home Content Right Sidebar."
+msgstr "Widget de bloque de entradas, idóneo par el contenido izquierdo de la página de inicio y para la barra lateral derecha de la página de inicio"
+
+#: inc/widgets/widget-block-1.php:10 inc/widgets/widget-block-2.php:9
+msgid "Block posts widget, best for Home Content Top & Home Content Bottom Sidebar."
+msgstr "Widget de bloque de entradas, idóneo par el contenido superior de la página de inicio y para la parte inferior de la barra lateral de la página de inicio"
+
+#. #-#-#-#-#  glob.pot (Glob 0.1.1)  #-#-#-#-#
+#. Description of the plugin/theme
+#: inc/dashboard.php:40
+msgid "Glob is a flexible, clean, simple responsive WordPress theme, perfect for any news or online magazine website."
+msgstr "Glob es un tema flexible, limpio, simple y adaptable para WordPress, perfecto para cualquier sitio web de noticias o de tipo magazine."
+
+#: inc/customizer.php:456
+msgid "Hide theme author links"
+msgstr "Ocultar los enlaces del autor del tema"
+
+#: inc/customizer.php:455
+msgid "Live change footer text."
+msgstr "Cambio en directo del texto de pie de página"
+
+#: inc/customizer.php:454
+msgid "More sidebar location."
+msgstr "Más ubicaciones para la barra lateral."
+
+#: inc/customizer.php:453
+msgid "Author box with social."
+msgstr "Caja de autor con enlaces sociales."
+
+#: inc/customizer.php:452
+msgid "Social sharing features."
+msgstr "Funciones de compartir en redes sociales"
+
+#: inc/customizer.php:451
+msgid "More hero style widgets."
+msgstr "Más estilos de widgets de tipo hero"
+
+#: inc/customizer.php:450
+msgid "More block post widgets."
+msgstr "Más bloques de widgets de entradas."
+
+#: inc/customizer.php:449
+msgid "Custom navigation style."
+msgstr "Estilo de navegación personalizada."
+
+#: inc/customizer.php:448
+msgid "600+ google fonts."
+msgstr "Más de 600 fuentes de Google"
+
+#: inc/customizer.php:447
+msgid "Advanced typography settings"
+msgstr "Ajustes tipográficos avanzados"
+
+#: inc/customizer.php:433
+msgid "View PRO Version"
+msgstr "Ver la versión PRO"
+
+#: inc/customizer.php:401
+msgid "Apply when front page display is latest posts."
+msgstr "Se aplica cuando la página de inicio muestra las últimas entradas"
+
+#: inc/customizer.php:385
+msgid "Upgrade to %1s in order to change site footer copyright information and hide theme author link via Customizer."
+msgstr "Actualice a% 1s para cambiar la información del copyright del pie de página y ocultar el enlace al autor del tema a través del personalizador."
+
+#: inc/customizer.php:384
+msgid "Change Footer Copyright Text and Hide Theme Author Link"
+msgstr "Cambiar el texto del copyright del pie de página y ocultar el enlace al autor del tema"
+
+#: inc/customizer.php:373
+msgid "Custom footer 2 columns width"
+msgstr "Personalizar el ancho del pie de página a 2 columnas"
+
+#: inc/customizer.php:360
+msgid "Custom footer 3 columns width"
+msgstr "Personalizar el ancho del pie de página a 3 columnas"
+
+#: inc/customizer.php:348 inc/customizer.php:361 inc/customizer.php:374
+msgid "Enter int numbers and sum of them must smaller or equal 12, separated by \"+\""
+msgstr "Introduce números enteros y la suma de ellos debe ser menor o igual a 12, separados por \"+\""
+
+#: inc/customizer.php:347
+msgid "Custom footer 4 columns width"
+msgstr "Personalizar el ancho del pie de página a 4 columnas"
+
+#: inc/customizer.php:335
+msgid "4 Columns"
+msgstr "4 columnas"
+
+#: inc/customizer.php:334
+msgid "3 Columns"
+msgstr "3 columnas"
+
+#: inc/customizer.php:333
+msgid "2 Columns"
+msgstr "2 Columnas"
+
+#: inc/customizer.php:332
+msgid "1 Column"
+msgstr "1 Columna"
+
+#: inc/customizer.php:328
+msgid "Number footer columns to display."
+msgstr "Número de columnas a mostrar en el pie de página."
+
+#: inc/customizer.php:327
+msgid "Footer Layout"
+msgstr "Diseño del pie de página"
+
+#: inc/customizer.php:316
+msgid "Footer Settings"
+msgstr "Ajustes del pie de página"
+
+#: inc/customizer.php:305
+msgid "Upgrade to %1s in order to enable author box."
+msgstr "Actualizar a 1s % para activar la caja del autor."
+
+#: inc/customizer.php:304
+msgid "Enable Author Box"
+msgstr "Activar la caja del autor"
+
+#: inc/customizer.php:293
+msgid "Upgrade to %1s in order to enable social share."
+msgstr "Actualizar a 1s % para activar el compartir en redes sociales."
+
+#: inc/customizer.php:292
+msgid "Enable Social Share"
+msgstr "Activar compartir en redes sociales"
+
+#: inc/customizer.php:279
+msgid "Enable Comment Count"
+msgstr "Activar contador de comentarios"
+
+#: inc/customizer.php:266
+msgid "Enable Post Date"
+msgstr "Activar fecha de la entrada"
+
+#: inc/customizer.php:253
+msgid "Enable Post Author"
+msgstr "Activar autor de la entrada"
+
+#: inc/customizer.php:240
+msgid "Enable Featured image"
+msgstr "Activar imagen destacada"
+
+#: inc/customizer.php:229
+msgid "Single Post"
+msgstr "Entrada única"
+
+#: inc/customizer.php:219 inc/customizer.php:406
+msgid "List"
+msgstr "Lista"
+
+#: inc/customizer.php:218
+msgid "Grid"
+msgstr "Cuadrícula"
+
+#: inc/customizer.php:214
+msgid "Apply for archive pages."
+msgstr "Afecta a las páginas de archivo."
+
+#: inc/customizer.php:202 inc/customizer.php:213
+msgid "Archive Layout"
+msgstr "Plantilla de archivo"
+
+#: inc/customizer.php:192
+msgid "Easily breaking all posts with the tags of your choice. Separated by comma (,)."
+msgstr "Destaca como última hora todas aquellas entradas con las etiquetas que tu elijas. Separadas por coma (,)."
+
+#: inc/customizer.php:190
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: inc/customizer.php:177
+msgid "Number posts to show"
+msgstr "Número de entradas a mostrar"
+
+#: inc/customizer.php:164
+msgid "Label"
+msgstr "Etiqueta"
+
+#: inc/customizer.php:158 inc/template-tags.php:259
+msgid "Breaking"
+msgstr "Última hora"
+
+#: inc/customizer.php:151
+msgid "Enable Breaking News"
+msgstr "Activar noticias de última hora"
+
+#: inc/customizer.php:139
+msgid "Breaking news"
+msgstr "Noticias de última hora"
+
+#: inc/customizer.php:128
+msgid "Upgrade to %1s in order to change the navigation background colors."
+msgstr "Actualizar a 1s % para cambiar los colores de fondo de navegación."
+
+#: inc/customizer.php:127
+msgid "Navigation Background Colors"
+msgstr "Colores de fondo de navegación"
+
+#: inc/customizer.php:110
+msgid "Primary Navigation Layout"
+msgstr "Diseño de la navegación principal"
+
+#: inc/customizer.php:98 inc/customizer.php:115
+msgid "Full Width"
+msgstr "Ancho completo"
+
+#: inc/customizer.php:97 inc/customizer.php:114
+msgid "Boxed"
+msgstr "En caja"
+
+#: inc/customizer.php:93
+msgid "Breaking News Sticker Layout"
+msgstr "Diseño de las noticias de última hora fijas"
+
+#: inc/customizer.php:75
+msgid "Logo/Site Identity Position"
+msgstr "Posición de la identidad o logotipo del sitio"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:124
+msgid " "
+msgstr " "
+
+#. Author URI of the plugin/theme
+msgid "https://www.famethemes.com"
+msgstr "https://www.famethemes.com"
+
+#. Theme URI of the plugin/theme
+msgid "https://www.famethemes.com/themes/glob"
+msgstr "https://www.famethemes.com/themes/glob"
