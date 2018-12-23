@@ -59,7 +59,7 @@ define('NONCE_SALT', '$}Q.<hH4?u1-ML`$>lJm+.L3U6Lm#Il,Thom=dbT#qj Gl+nC%hN km>c@
  * Cambia el prefijo si deseas instalar multiples blogs en una sola base de datos.
  * Emplea solo números, letras y guión bajo.
  */
-$table_prefix = 'wpstg0_';//  = 'wp_';
+$table_prefix  = 'wp_';
 
 
 /**

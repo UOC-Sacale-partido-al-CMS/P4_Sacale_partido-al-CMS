@@ -1,0 +1,362 @@
+[INFO]-[2018/12/23 08:31:11] DB Copy: Creating table wpstg0_blc_filters
+[INFO]-[2018/12/23 08:31:11] DB Copy: Creating table wpstg0_blc_filters
+[INFO]-[2018/12/23 08:31:12] DB Copy: Creating table wpstg0_blc_instances
+[INFO]-[2018/12/23 08:31:12] DB Copy: wp_blc_instances as wpstg0_blc_instances from 0 to 10000 records
+[INFO]-[2018/12/23 08:31:12] DB Copy: Creating table wpstg0_blc_instances
+[INFO]-[2018/12/23 08:31:12] DB Copy: wp_blc_instances as wpstg0_blc_instances from 0 to 10000 records
+[INFO]-[2018/12/23 08:31:13] DB Copy: Creating table wpstg0_blc_links
+[INFO]-[2018/12/23 08:31:13] DB Copy: wp_blc_links as wpstg0_blc_links from 0 to 10000 records
+[INFO]-[2018/12/23 08:31:13] DB Copy: Creating table wpstg0_blc_links
+[INFO]-[2018/12/23 08:31:13] DB Copy: wp_blc_links as wpstg0_blc_links from 0 to 10000 records
+[INFO]-[2018/12/23 08:31:14] DB Copy: Creating table wpstg0_blc_synch
+[INFO]-[2018/12/23 08:31:14] DB Copy: wp_blc_synch as wpstg0_blc_synch from 0 to 10000 records
+[INFO]-[2018/12/23 08:31:14] DB Copy: Creating table wpstg0_blc_synch
+[INFO]-[2018/12/23 08:31:14] DB Copy: wp_blc_synch as wpstg0_blc_synch from 0 to 10000 records
+[INFO]-[2018/12/23 08:31:15] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2018/12/23 08:31:15] DB Copy: wp_commentmeta as wpstg0_commentmeta from 0 to 10000 records
+[INFO]-[2018/12/23 08:31:15] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2018/12/23 08:31:15] DB Copy: wp_commentmeta as wpstg0_commentmeta from 0 to 10000 records
+[INFO]-[2018/12/23 08:31:16] DB Copy: Creating table wpstg0_comments
+[INFO]-[2018/12/23 08:31:16] DB Copy: wp_comments as wpstg0_comments from 0 to 10000 records
+[INFO]-[2018/12/23 08:31:16] DB Copy: Creating table wpstg0_comments
+[INFO]-[2018/12/23 08:31:16] DB Copy: wp_comments as wpstg0_comments from 0 to 10000 records
+[INFO]-[2018/12/23 08:31:17] DB Copy: Creating table wpstg0_duplicator_packages
+[INFO]-[2018/12/23 08:31:17] DB Copy: wp_duplicator_packages as wpstg0_duplicator_packages from 0 to 10000 records
+[INFO]-[2018/12/23 08:31:17] DB Copy: Creating table wpstg0_duplicator_packages
+[INFO]-[2018/12/23 08:31:17] DB Copy: wp_duplicator_packages as wpstg0_duplicator_packages from 0 to 10000 records
+[INFO]-[2018/12/23 08:31:18] DB Copy: Creating table wpstg0_links
+[INFO]-[2018/12/23 08:31:18] DB Copy: Creating table wpstg0_links
+[INFO]-[2018/12/23 08:31:19] DB Copy: Creating table wpstg0_ms_snippets
+[INFO]-[2018/12/23 08:31:19] DB Copy: Creating table wpstg0_ms_snippets
+[INFO]-[2018/12/23 08:31:20] DB Copy: Creating table wpstg0_options
+[INFO]-[2018/12/23 08:31:21] DB Copy: wp_options as wpstg0_options from 0 to 10000 records
+[INFO]-[2018/12/23 08:31:20] DB Copy: Creating table wpstg0_options
+[INFO]-[2018/12/23 08:31:21] DB Copy: wp_options as wpstg0_options from 0 to 10000 records
+[INFO]-[2018/12/23 08:31:22] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2018/12/23 08:31:22] DB Copy: wp_postmeta as wpstg0_postmeta from 0 to 10000 records
+[INFO]-[2018/12/23 08:31:22] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2018/12/23 08:31:22] DB Copy: wp_postmeta as wpstg0_postmeta from 0 to 10000 records
+[INFO]-[2018/12/23 08:31:22] DB Copy: Creating table wpstg0_posts
+[INFO]-[2018/12/23 08:31:22] DB Copy: wp_posts as wpstg0_posts from 0 to 10000 records
+[INFO]-[2018/12/23 08:31:22] DB Copy: Creating table wpstg0_posts
+[INFO]-[2018/12/23 08:31:22] DB Copy: wp_posts as wpstg0_posts from 0 to 10000 records
+[INFO]-[2018/12/23 08:31:23] DB Copy: Creating table wpstg0_snippets
+[INFO]-[2018/12/23 08:31:23] DB Copy: wp_snippets as wpstg0_snippets from 0 to 10000 records
+[INFO]-[2018/12/23 08:31:23] DB Copy: Creating table wpstg0_snippets
+[INFO]-[2018/12/23 08:31:23] DB Copy: wp_snippets as wpstg0_snippets from 0 to 10000 records
+[INFO]-[2018/12/23 08:31:25] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2018/12/23 08:31:25] DB Copy: wp_term_relationships as wpstg0_term_relationships from 0 to 10000 records
+[INFO]-[2018/12/23 08:31:25] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2018/12/23 08:31:25] DB Copy: wp_term_relationships as wpstg0_term_relationships from 0 to 10000 records
+[INFO]-[2018/12/23 08:31:26] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2018/12/23 08:31:26] DB Copy: wp_term_taxonomy as wpstg0_term_taxonomy from 0 to 10000 records
+[INFO]-[2018/12/23 08:31:26] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2018/12/23 08:31:26] DB Copy: wp_term_taxonomy as wpstg0_term_taxonomy from 0 to 10000 records
+[INFO]-[2018/12/23 08:31:27] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2018/12/23 08:31:27] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2018/12/23 08:31:28] DB Copy: Creating table wpstg0_terms
+[INFO]-[2018/12/23 08:31:28] DB Copy: wp_terms as wpstg0_terms from 0 to 10000 records
+[INFO]-[2018/12/23 08:31:28] DB Copy: Creating table wpstg0_terms
+[INFO]-[2018/12/23 08:31:28] DB Copy: wp_terms as wpstg0_terms from 0 to 10000 records
+[INFO]-[2018/12/23 08:31:29] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2018/12/23 08:31:29] DB Copy: wp_usermeta as wpstg0_usermeta from 0 to 10000 records
+[INFO]-[2018/12/23 08:31:29] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2018/12/23 08:31:29] DB Copy: wp_usermeta as wpstg0_usermeta from 0 to 10000 records
+[INFO]-[2018/12/23 08:31:30] DB Copy: Creating table wpstg0_users
+[INFO]-[2018/12/23 08:31:30] DB Copy: wp_users as wpstg0_users from 0 to 10000 records
+[INFO]-[2018/12/23 08:31:30] DB Copy: Creating table wpstg0_users
+[INFO]-[2018/12/23 08:31:30] DB Copy: wp_users as wpstg0_users from 0 to 10000 records
+[INFO]-[2018/12/23 08:31:31] DB Copy: Creating table wpstg0_yoast_seo_links
+[INFO]-[2018/12/23 08:31:31] DB Copy: wp_yoast_seo_links as wpstg0_yoast_seo_links from 0 to 10000 records
+[INFO]-[2018/12/23 08:31:31] DB Copy: Creating table wpstg0_yoast_seo_links
+[INFO]-[2018/12/23 08:31:31] DB Copy: wp_yoast_seo_links as wpstg0_yoast_seo_links from 0 to 10000 records
+[INFO]-[2018/12/23 08:31:32] DB Copy: Creating table wpstg0_yoast_seo_meta
+[INFO]-[2018/12/23 08:31:32] DB Copy: wp_yoast_seo_meta as wpstg0_yoast_seo_meta from 0 to 10000 records
+[INFO]-[2018/12/23 08:31:32] DB Copy: Creating table wpstg0_yoast_seo_meta
+[INFO]-[2018/12/23 08:31:32] DB Copy: wp_yoast_seo_meta as wpstg0_yoast_seo_meta from 0 to 10000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/12/23 08:31:35] DB Processing:  Table wpstg0_blc_instances 0 to 5000 records
+[INFO]-[2018/12/23 08:31:35] DB Processing:  Table wpstg0_blc_instances 0 to 5000 records
+[INFO]-[2018/12/23 08:31:37] DB Processing:  Table wpstg0_blc_links 0 to 5000 records
+[INFO]-[2018/12/23 08:31:37] DB Processing:  Table wpstg0_blc_links 0 to 5000 records
+[INFO]-[2018/12/23 08:31:38] DB Processing:  Table wpstg0_blc_synch 0 to 5000 records
+[INFO]-[2018/12/23 08:31:38] DB Processing:  Table wpstg0_blc_synch 0 to 5000 records
+[INFO]-[2018/12/23 08:31:40] DB Processing:  Table wpstg0_commentmeta 0 to 5000 records
+[INFO]-[2018/12/23 08:31:40] DB Processing:  Table wpstg0_commentmeta 0 to 5000 records
+[INFO]-[2018/12/23 08:31:42] DB Processing:  Table wpstg0_comments 0 to 5000 records
+[INFO]-[2018/12/23 08:31:42] DB Processing:  Table wpstg0_comments 0 to 5000 records
+[INFO]-[2018/12/23 08:31:44] DB Processing:  Table wpstg0_duplicator_packages 0 to 5000 records
+[INFO]-[2018/12/23 08:31:44] DB Processing:  Table wpstg0_duplicator_packages 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/12/23 08:31:48] DB Processing:  Table wpstg0_options 0 to 5000 records
+[INFO]-[2018/12/23 08:31:48] DB Processing:  Table wpstg0_options 0 to 5000 records
+[INFO]-[2018/12/23 08:31:49] DB Processing:  Table wpstg0_postmeta 0 to 5000 records
+[INFO]-[2018/12/23 08:31:49] DB Processing:  Table wpstg0_postmeta 0 to 5000 records
+[INFO]-[2018/12/23 08:31:51] DB Processing:  Table wpstg0_posts 0 to 5000 records
+[INFO]-[2018/12/23 08:31:51] DB Processing:  Table wpstg0_posts 0 to 5000 records
+[INFO]-[2018/12/23 08:31:54] DB Processing:  Table wpstg0_snippets 0 to 5000 records
+[INFO]-[2018/12/23 08:31:54] DB Processing:  Table wpstg0_snippets 0 to 5000 records
+[INFO]-[2018/12/23 08:31:55] DB Processing:  Table wpstg0_term_relationships 0 to 5000 records
+[INFO]-[2018/12/23 08:31:55] DB Processing:  Table wpstg0_term_relationships 0 to 5000 records
+[INFO]-[2018/12/23 08:31:57] DB Processing:  Table wpstg0_term_taxonomy 0 to 5000 records
+[INFO]-[2018/12/23 08:31:57] DB Processing:  Table wpstg0_term_taxonomy 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2018/12/23 08:31:59] DB Processing:  Table wpstg0_terms 0 to 5000 records
+[INFO]-[2018/12/23 08:31:59] DB Processing:  Table wpstg0_terms 0 to 5000 records
+[INFO]-[2018/12/23 08:32:00] DB Processing:  Table wpstg0_usermeta 0 to 5000 records
+[INFO]-[2018/12/23 08:32:00] DB Processing:  Table wpstg0_usermeta 0 to 5000 records
+[INFO]-[2018/12/23 08:32:01] DB Processing:  Table wpstg0_users 0 to 5000 records
+[INFO]-[2018/12/23 08:32:01] DB Processing:  Table wpstg0_users 0 to 5000 records
+[INFO]-[2018/12/23 08:32:02] DB Processing:  Table wpstg0_yoast_seo_links 0 to 5000 records
+[INFO]-[2018/12/23 08:32:02] DB Processing:  Table wpstg0_yoast_seo_links 0 to 5000 records
+[INFO]-[2018/12/23 08:32:03] DB Processing:  Table wpstg0_yoast_seo_meta 0 to 5000 records
+[INFO]-[2018/12/23 08:32:03] DB Processing:  Table wpstg0_yoast_seo_meta 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2018/12/23 08:32:05] Scanning / for files
+[INFO]-[2018/12/23 08:32:05] Scanning / for files
+[INFO]-[2018/12/23 08:32:07] Scanning wp-content folder /storage/ssd3/190/7932190/public_html/wp-content
+[INFO]-[2018/12/23 08:32:07] Scanning wp-content folder /storage/ssd3/190/7932190/public_html/wp-content
+[INFO]-[2018/12/23 08:32:09] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2018/12/23 08:32:09] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2018/12/23 08:32:11] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2018/12/23 08:32:11] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2018/12/23 08:32:14] Copying files...
+[INFO]-[2018/12/23 08:32:14] Total 50 files processed
+[INFO]-[2018/12/23 08:32:14] Copying files...
+[INFO]-[2018/12/23 08:32:14] Total 50 files processed
+[INFO]-[2018/12/23 08:32:15] Total 100 files processed
+[INFO]-[2018/12/23 08:32:15] Total 100 files processed
+[INFO]-[2018/12/23 08:32:17] Total 150 files processed
+[INFO]-[2018/12/23 08:32:17] Total 150 files processed
+[INFO]-[2018/12/23 08:32:18] Total 200 files processed
+[INFO]-[2018/12/23 08:32:18] Total 200 files processed
+[INFO]-[2018/12/23 08:32:19] Total 250 files processed
+[INFO]-[2018/12/23 08:32:19] Total 250 files processed
+[INFO]-[2018/12/23 08:32:21] Total 300 files processed
+[INFO]-[2018/12/23 08:32:21] Total 300 files processed
+[INFO]-[2018/12/23 08:32:23] Total 350 files processed
+[INFO]-[2018/12/23 08:32:23] Total 350 files processed
+[INFO]-[2018/12/23 08:32:24] Total 400 files processed
+[INFO]-[2018/12/23 08:32:24] Total 400 files processed
+[INFO]-[2018/12/23 08:32:25] Total 450 files processed
+[INFO]-[2018/12/23 08:32:25] Total 450 files processed
+[INFO]-[2018/12/23 08:32:27] Total 500 files processed
+[INFO]-[2018/12/23 08:32:27] Total 500 files processed
+[INFO]-[2018/12/23 08:32:28] Total 550 files processed
+[INFO]-[2018/12/23 08:32:28] Total 550 files processed
+[INFO]-[2018/12/23 08:32:29] Total 600 files processed
+[INFO]-[2018/12/23 08:32:29] Total 600 files processed
+[INFO]-[2018/12/23 08:32:30] Total 650 files processed
+[INFO]-[2018/12/23 08:32:30] Total 650 files processed
+[INFO]-[2018/12/23 08:32:31] Total 700 files processed
+[INFO]-[2018/12/23 08:32:31] Total 700 files processed
+[INFO]-[2018/12/23 08:32:32] Total 750 files processed
+[INFO]-[2018/12/23 08:32:32] Total 750 files processed
+[INFO]-[2018/12/23 08:32:34] Total 800 files processed
+[INFO]-[2018/12/23 08:32:34] Total 800 files processed
+[INFO]-[2018/12/23 08:32:35] Total 850 files processed
+[INFO]-[2018/12/23 08:32:35] Total 850 files processed
+[INFO]-[2018/12/23 08:32:36] Trying to copy big file: /storage/ssd3/190/7932190/public_html/wp-content/plugins/wordpress-seo/js/dist/analysis-921.min.js -> /storage/ssd3/190/7932190/public_html/1545553869070/wp-content/plugins/wordpress-seo/js/dist/analysis-921.min.js
+[INFO]-[2018/12/23 08:32:36] Trying to copy big file: /storage/ssd3/190/7932190/public_html/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-921.min.js -> /storage/ssd3/190/7932190/public_html/1545553869070/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-921.min.js
+[INFO]-[2018/12/23 08:32:36] Total 900 files processed
+[INFO]-[2018/12/23 08:32:36] Trying to copy big file: /storage/ssd3/190/7932190/public_html/wp-content/plugins/wordpress-seo/js/dist/analysis-921.min.js -> /storage/ssd3/190/7932190/public_html/1545553869070/wp-content/plugins/wordpress-seo/js/dist/analysis-921.min.js
+[INFO]-[2018/12/23 08:32:36] Trying to copy big file: /storage/ssd3/190/7932190/public_html/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-921.min.js -> /storage/ssd3/190/7932190/public_html/1545553869070/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-921.min.js
+[INFO]-[2018/12/23 08:32:36] Total 900 files processed
+[INFO]-[2018/12/23 08:32:37] Total 950 files processed
+[INFO]-[2018/12/23 08:32:37] Total 950 files processed
+[INFO]-[2018/12/23 08:32:40] Total 1000 files processed
+[INFO]-[2018/12/23 08:32:40] Total 1000 files processed
+[INFO]-[2018/12/23 08:32:41] Total 1050 files processed
+[INFO]-[2018/12/23 08:32:41] Total 1050 files processed
+[INFO]-[2018/12/23 08:32:43] Total 1100 files processed
+[INFO]-[2018/12/23 08:32:43] Total 1100 files processed
+[INFO]-[2018/12/23 08:32:45] Total 1150 files processed
+[INFO]-[2018/12/23 08:32:45] Total 1150 files processed
+[INFO]-[2018/12/23 08:32:46] Total 1200 files processed
+[INFO]-[2018/12/23 08:32:46] Total 1200 files processed
+[INFO]-[2018/12/23 08:32:48] Total 1250 files processed
+[INFO]-[2018/12/23 08:32:48] Total 1250 files processed
+[INFO]-[2018/12/23 08:32:49] Total 1300 files processed
+[INFO]-[2018/12/23 08:32:49] Total 1300 files processed
+[INFO]-[2018/12/23 08:32:50] Total 1350 files processed
+[INFO]-[2018/12/23 08:32:50] Total 1350 files processed
+[INFO]-[2018/12/23 08:32:53] Total 1400 files processed
+[INFO]-[2018/12/23 08:32:53] Total 1400 files processed
+[INFO]-[2018/12/23 08:32:54] Total 1450 files processed
+[INFO]-[2018/12/23 08:32:54] Total 1450 files processed
+[INFO]-[2018/12/23 08:32:55] Total 1500 files processed
+[INFO]-[2018/12/23 08:32:55] Total 1500 files processed
+[INFO]-[2018/12/23 08:32:56] Total 1550 files processed
+[INFO]-[2018/12/23 08:32:56] Total 1550 files processed
+[INFO]-[2018/12/23 08:32:59] Total 1600 files processed
+[INFO]-[2018/12/23 08:32:59] Total 1600 files processed
+[INFO]-[2018/12/23 08:33:00] Total 1650 files processed
+[INFO]-[2018/12/23 08:33:00] Total 1650 files processed
+[INFO]-[2018/12/23 08:33:01] Total 1700 files processed
+[INFO]-[2018/12/23 08:33:01] Total 1700 files processed
+[INFO]-[2018/12/23 08:33:03] Total 1750 files processed
+[INFO]-[2018/12/23 08:33:03] Total 1750 files processed
+[INFO]-[2018/12/23 08:33:04] Total 1800 files processed
+[INFO]-[2018/12/23 08:33:04] Total 1800 files processed
+[INFO]-[2018/12/23 08:33:06] Total 1850 files processed
+[INFO]-[2018/12/23 08:33:06] Total 1850 files processed
+[INFO]-[2018/12/23 08:33:08] Total 1900 files processed
+[INFO]-[2018/12/23 08:33:08] Total 1900 files processed
+[INFO]-[2018/12/23 08:33:09] Total 1950 files processed
+[INFO]-[2018/12/23 08:33:09] Total 1950 files processed
+[INFO]-[2018/12/23 08:33:12] Total 2000 files processed
+[INFO]-[2018/12/23 08:33:12] Total 2000 files processed
+[INFO]-[2018/12/23 08:33:14] Total 2050 files processed
+[INFO]-[2018/12/23 08:33:14] Total 2050 files processed
+[INFO]-[2018/12/23 08:33:15] Total 2100 files processed
+[INFO]-[2018/12/23 08:33:15] Total 2100 files processed
+[INFO]-[2018/12/23 08:33:17] Total 2150 files processed
+[INFO]-[2018/12/23 08:33:17] Total 2150 files processed
+[INFO]-[2018/12/23 08:33:19] Trying to copy big file: /storage/ssd3/190/7932190/public_html/wp-content/uploads/2018/12/SANSILVESTRE-llegada-.jpg -> /storage/ssd3/190/7932190/public_html/1545553869070/wp-content/uploads/2018/12/SANSILVESTRE-llegada-.jpg
+[INFO]-[2018/12/23 08:33:19] Total 2200 files processed
+[INFO]-[2018/12/23 08:33:19] Trying to copy big file: /storage/ssd3/190/7932190/public_html/wp-content/uploads/2018/12/SANSILVESTRE-llegada-.jpg -> /storage/ssd3/190/7932190/public_html/1545553869070/wp-content/uploads/2018/12/SANSILVESTRE-llegada-.jpg
+[INFO]-[2018/12/23 08:33:19] Total 2200 files processed
+[INFO]-[2018/12/23 08:33:20] Total 2250 files processed
+[INFO]-[2018/12/23 08:33:20] Total 2250 files processed
+[INFO]-[2018/12/23 08:33:21] Total 2300 files processed
+[INFO]-[2018/12/23 08:33:21] Total 2300 files processed
+[INFO]-[2018/12/23 08:33:22] Total 2350 files processed
+[INFO]-[2018/12/23 08:33:22] Total 2350 files processed
+[INFO]-[2018/12/23 08:33:23] Total 2400 files processed
+[INFO]-[2018/12/23 08:33:23] Total 2400 files processed
+[INFO]-[2018/12/23 08:33:24] Total 2450 files processed
+[INFO]-[2018/12/23 08:33:24] Total 2450 files processed
+[INFO]-[2018/12/23 08:33:26] Total 2500 files processed
+[INFO]-[2018/12/23 08:33:26] Total 2500 files processed
+[INFO]-[2018/12/23 08:33:28] Total 2550 files processed
+[INFO]-[2018/12/23 08:33:28] Total 2550 files processed
+[INFO]-[2018/12/23 08:33:29] Total 2600 files processed
+[INFO]-[2018/12/23 08:33:29] Total 2600 files processed
+[INFO]-[2018/12/23 08:33:31] Total 2650 files processed
+[INFO]-[2018/12/23 08:33:31] Total 2650 files processed
+[INFO]-[2018/12/23 08:33:33] Total 2700 files processed
+[INFO]-[2018/12/23 08:33:33] Total 2700 files processed
+[INFO]-[2018/12/23 08:33:34] Total 2750 files processed
+[INFO]-[2018/12/23 08:33:34] Total 2750 files processed
+[INFO]-[2018/12/23 08:33:35] Total 2800 files processed
+[INFO]-[2018/12/23 08:33:35] Total 2800 files processed
+[INFO]-[2018/12/23 08:33:36] Total 2850 files processed
+[INFO]-[2018/12/23 08:33:36] Total 2850 files processed
+[INFO]-[2018/12/23 08:33:37] Total 2900 files processed
+[INFO]-[2018/12/23 08:33:37] Total 2900 files processed
+[INFO]-[2018/12/23 08:33:38] Total 2950 files processed
+[INFO]-[2018/12/23 08:33:38] Total 2950 files processed
+[INFO]-[2018/12/23 08:33:40] Total 3000 files processed
+[INFO]-[2018/12/23 08:33:40] Total 3000 files processed
+[INFO]-[2018/12/23 08:33:42] Total 3050 files processed
+[INFO]-[2018/12/23 08:33:42] Total 3050 files processed
+[INFO]-[2018/12/23 08:33:43] Total 3100 files processed
+[INFO]-[2018/12/23 08:33:43] Total 3100 files processed
+[INFO]-[2018/12/23 08:33:46] Total 3150 files processed
+[INFO]-[2018/12/23 08:33:46] Total 3150 files processed
+[INFO]-[2018/12/23 08:33:47] Total 3200 files processed
+[INFO]-[2018/12/23 08:33:47] Total 3200 files processed
+[INFO]-[2018/12/23 08:33:48] Total 3250 files processed
+[INFO]-[2018/12/23 08:33:48] Total 3250 files processed
+[INFO]-[2018/12/23 08:33:49] Total 3300 files processed
+[INFO]-[2018/12/23 08:33:49] Total 3300 files processed
+[INFO]-[2018/12/23 08:33:51] Total 3350 files processed
+[INFO]-[2018/12/23 08:33:51] Total 3350 files processed
+[INFO]-[2018/12/23 08:33:52] Total 3400 files processed
+[INFO]-[2018/12/23 08:33:52] Total 3400 files processed
+[INFO]-[2018/12/23 08:33:54] Total 3450 files processed
+[INFO]-[2018/12/23 08:33:54] Total 3450 files processed
+[INFO]-[2018/12/23 08:33:56] Total 3500 files processed
+[INFO]-[2018/12/23 08:33:56] Total 3500 files processed
+[WARNING]-[2018/12/23 08:33:57] File doesn't exist /storage/ssd3/190/7932190/public_html/
+[WARNING]-[2018/12/23 08:33:57] File doesn't exist /storage/ssd3/190/7932190/public_html/
+[INFO]-[2018/12/23 08:33:58] Copying files finished
+[INFO]-[2018/12/23 08:33:58] Copying files finished
+[INFO]-[2018/12/23 08:34:00] Preparing Data Step0: Check if wp-config.php is located in root path
+[INFO]-[2018/12/23 08:34:00] Preparing Data Step0: Skip it
+[INFO]-[2018/12/23 08:34:00] Preparing Data Step0: Check if wp-config.php is located in root path
+[INFO]-[2018/12/23 08:34:00] Preparing Data Step0: Skip it
+[INFO]-[2018/12/23 08:34:01] Preparing Data Step1: Updating siteurl and homeurl in wpstg0_options 
+[INFO]-[2018/12/23 08:34:01] Preparing Data Step1: Updating siteurl and homeurl to https://jda-running.000webhostapp.com/1545553869070
+[INFO]-[2018/12/23 08:34:01] Preparing Data Step1: Updating siteurl and homeurl in wpstg0_options 
+[INFO]-[2018/12/23 08:34:01] Preparing Data Step1: Updating siteurl and homeurl to https://jda-running.000webhostapp.com/1545553869070
+[INFO]-[2018/12/23 08:34:02] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg0_options 
+[INFO]-[2018/12/23 08:34:03] Preparing Data Step2: Successfull
+[INFO]-[2018/12/23 08:34:02] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg0_options 
+[INFO]-[2018/12/23 08:34:03] Preparing Data Step2: Successfull
+[INFO]-[2018/12/23 08:34:04] Preparing Data Step3: Updating rewrite_rules in wpstg0_options 
+[INFO]-[2018/12/23 08:34:04] Preparing Data Step3: Updating rewrite_rules in wpstg0_options 
+[INFO]-[2018/12/23 08:34:06] Preparing Data Step4: Updating db prefix in wpstg0_usermeta. 
+[INFO]-[2018/12/23 08:34:06] Preparing Data Step4: Updating db prefix in wpstg0_usermeta. 
+[INFO]-[2018/12/23 08:34:08] Preparing Data Step5: Updating table_prefix in /storage/ssd3/190/7932190/public_html/1545553869070/wp-config.php to wpstg0_
+[INFO]-[2018/12/23 08:34:08] Preparing Data Step5: Updating table_prefix in /storage/ssd3/190/7932190/public_html/1545553869070/wp-config.php to wpstg0_
+[]-[] 
+[]-[] 
+[INFO]-[2018/12/23 08:34:10] Preparing Data Step7: Updating wpstg_rmpermalinks_executed in wpstg0_options 
+[WARNING]-[2018/12/23 08:34:10] Failed to update wpstg_rmpermalinks_executed in wpstg0_options 
+[INFO]-[2018/12/23 08:34:10] Preparing Data Step7: Updating wpstg_rmpermalinks_executed in wpstg0_options 
+[WARNING]-[2018/12/23 08:34:10] Failed to update wpstg_rmpermalinks_executed in wpstg0_options 
+[INFO]-[2018/12/23 08:34:12] Preparing Data Step8: Updating permalink_structure in wpstg0_options 
+[INFO]-[2018/12/23 08:34:12] Preparing Data Step8: Finished successfully
+[INFO]-[2018/12/23 08:34:12] Preparing Data Step8: Updating permalink_structure in wpstg0_options 
+[INFO]-[2018/12/23 08:34:12] Preparing Data Step8: Finished successfully
+[INFO]-[2018/12/23 08:34:14] Preparing Data Step9: Set staging site to noindex
+[INFO]-[2018/12/23 08:34:14] Preparing Data Step9: Finished successfully
+[INFO]-[2018/12/23 08:34:14] Preparing Data Step9: Set staging site to noindex
+[INFO]-[2018/12/23 08:34:14] Preparing Data Step9: Finished successfully
+[INFO]-[2018/12/23 08:34:15] Preparing Data Step10: Updating WP_HOME in wp-config.php to https://jda-running.000webhostapp.com/1545553869070
+[INFO]-[2018/12/23 08:34:15] Preparing Data Step10: WP_HOME not defined in wp-config.php. Skipping this step.
+[INFO]-[2018/12/23 08:34:15] Preparing Data Step 10: Finished successfully
+[INFO]-[2018/12/23 08:34:15] Preparing Data Step10: Updating WP_HOME in wp-config.php to https://jda-running.000webhostapp.com/1545553869070
+[INFO]-[2018/12/23 08:34:15] Preparing Data Step10: WP_HOME not defined in wp-config.php. Skipping this step.
+[INFO]-[2018/12/23 08:34:15] Preparing Data Step 10: Finished successfully
+[INFO]-[2018/12/23 08:34:16] Preparing Data Step11: Updating WP_SITEURL in wp-config.php to https://jda-running.000webhostapp.com/1545553869070
+[INFO]-[2018/12/23 08:34:16] Preparing Data Step11: WP_SITEURL not defined in wp-config.php. Skipping this step.
+[INFO]-[2018/12/23 08:34:16] Preparing Data Step 11: Finished successfully
+[INFO]-[2018/12/23 08:34:16] Preparing Data Step11: Updating WP_SITEURL in wp-config.php to https://jda-running.000webhostapp.com/1545553869070
+[INFO]-[2018/12/23 08:34:16] Preparing Data Step11: WP_SITEURL not defined in wp-config.php. Skipping this step.
+[INFO]-[2018/12/23 08:34:16] Preparing Data Step 11: Finished successfully
+[INFO]-[2018/12/23 08:34:17] Preparing Data Step12: Updating db prefix in wpstg0_options.
+[INFO]-[2018/12/23 08:34:17] Preparing Data Step 12: Finished successfully
+[INFO]-[2018/12/23 08:34:17] Preparing Data Step12: Updating db prefix in wpstg0_options.
+[INFO]-[2018/12/23 08:34:17] Preparing Data Step 12: Finished successfully
+[INFO]-[2018/12/23 08:34:19] Preparing Data Step13: Updating upload_path wpstg0_options.
+[INFO]-[2018/12/23 08:34:19] Preparing Data Step13: Skipped
+[INFO]-[2018/12/23 08:34:19] Preparing Data Step13: Updating upload_path wpstg0_options.
+[INFO]-[2018/12/23 08:34:19] Preparing Data Step13: Skipped
+[INFO]-[2018/12/23 08:34:20] Preparing Data Step14: Set WP_CACHE in wp-config.php to false
+[INFO]-[2018/12/23 08:34:20] Preparing Data Step14: WP_CACHE not defined in wp-config.php. Skipping this step.
+[INFO]-[2018/12/23 08:34:20] Preparing Data Step 14: Finished successfully
+[INFO]-[2018/12/23 08:34:20] Preparing Data Step14: Set WP_CACHE in wp-config.php to false
+[INFO]-[2018/12/23 08:34:20] Preparing Data Step14: WP_CACHE not defined in wp-config.php. Skipping this step.
+[INFO]-[2018/12/23 08:34:20] Preparing Data Step 14: Finished successfully
+[INFO]-[2018/12/23 08:34:21] Preparing Data Step15: Set WP_CONTENT_DIR in wp-config.php to false
+[INFO]-[2018/12/23 08:34:21] Preparing Data Step15: WP_CONTENT_DIR not defined in wp-config.php. Skipping this step.
+[INFO]-[2018/12/23 08:34:21] Preparing Data Step 15: Finished successfully
+[INFO]-[2018/12/23 08:34:21] Preparing Data Step15: Set WP_CONTENT_DIR in wp-config.php to false
+[INFO]-[2018/12/23 08:34:21] Preparing Data Step15: WP_CONTENT_DIR not defined in wp-config.php. Skipping this step.
+[INFO]-[2018/12/23 08:34:21] Preparing Data Step 15: Finished successfully
+[INFO]-[2018/12/23 08:34:22] Preparing Data Step16: Set WP_CONTENT_URL in wp-config.php to false
+[INFO]-[2018/12/23 08:34:22] Preparing Data Step16: WP_CONTENT_URL not defined in wp-config.php. Skipping this step.
+[INFO]-[2018/12/23 08:34:22] Preparing Data Step 16: Finished successfully
+[INFO]-[2018/12/23 08:34:22] Preparing Data Step16: Set WP_CONTENT_URL in wp-config.php to false
+[INFO]-[2018/12/23 08:34:22] Preparing Data Step16: WP_CONTENT_URL not defined in wp-config.php. Skipping this step.
+[INFO]-[2018/12/23 08:34:22] Preparing Data Step 16: Finished successfully
+[]-[] 
+[]-[] 
+[INFO]-[2018/12/23 08:34:25] Finish: Deleting clone job's cache files...
+[INFO]-[2018/12/23 08:34:25] Finish: Clone job's cache files have been deleted!
+[INFO]-[2018/12/23 08:34:25] Finish: Verifying existing clones...
+[INFO]-[2018/12/23 08:34:25] Finish: 1545553869070's clone job's data is not in database, generating data
+[INFO]-[2018/12/23 08:34:25] Finish: Deleting clone job's cache files...
+[INFO]-[2018/12/23 08:34:25] Finish: Clone job's cache files have been deleted!
+[INFO]-[2018/12/23 08:34:25] Finish: Verifying existing clones...
+[INFO]-[2018/12/23 08:34:25] Finish: 1545553869070's clone job's data is not in database, generating data

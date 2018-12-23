@@ -1,0 +1,82 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 20 December, 2018 4:38 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.3.0
+WORDPRESS:	4.9.9
+PHP INFO:	7.1.25 | SAPI: apache2handler
+SERVER:		Apache 
+PHP TIME LIMIT: [30] not allowed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 24MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:21 | filtered:0 | create:21 
+FILTERED: [] 
+SQL CREATED: 20181220_jdarunning_bd_51628916f38fabb54604_20181220163757_database.sql 
+SQL FILE SIZE: 926.62KB (948858) 
+SQL FILE TIME: 2018-12-20 16:38:08 
+SQL RUNTIME: 1.40 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /storage/ssd3/190/7932190/public_html 
+ARCHIVE FILE: 20181220_jdarunning_bd_51628916f38fabb54604_20181220163757_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	0B 
+STATS:	Dirs 0 | Files 0 
+SQL ADDED: 20181220_jdarunning_bd_51628916f38fabb54604_20181220163757_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 1
+    [filename] => /storage/ssd3/190/7932190/public_html/wp-snapshots/tmp/20181220_jdarunning_bd_51628916f38fabb54604_20181220163757_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 198.87KB 
+ARCHIVE RUNTIME: 0.07 sec. 
+MEMORY STACK: 24MB 
+building installer 
+add_extra_files1 
+add_extra_files2 
+add_extra_files3 
+add_extra_files4 
+Doing archive file check 
+add_extra_files5 
+add_extra_files6 
+add_extra_files8 
+Successfully opened zip /storage/ssd3/190/7932190/public_html/wp-snapshots/tmp/20181220_jdarunning_bd_51628916f38fabb54604_20181220163757_archive.zip 
+Adding enhanced installer files to archive using ZipArchive 
+Installer files added to archive 
+Added to archive 
+After ziparchive close when adding installer 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 926.62KB 
+Installer File: 32.64KB 
+Archive File: 1.01MB  
+
+********************************************************************************
+RECORD ID:[5]
+TOTAL PROCESS RUNTIME: 1.94 sec.
+PEAK PHP MEMORY USED: 26MB
+DONE PROCESSING => 20181220_jdarunning_bd 20 December, 2018 4:38 pm
+ 
